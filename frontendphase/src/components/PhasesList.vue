@@ -1,7 +1,6 @@
 <template>
   <div class="container">
     <h1>All Phases</h1>
-    <h1>All Phases test</h1>
     <div class="container">
       <div>
         <add-phase-modal
